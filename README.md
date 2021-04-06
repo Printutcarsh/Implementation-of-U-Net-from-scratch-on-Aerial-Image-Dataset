@@ -1,9 +1,11 @@
 # Implementation-of-U-Net-from-scratch-on-Aerial-Image-Dataset
-Learn to implement semantic segmentation.
 <p align="center">
   <img align="center" src="https://dl.acm.org/cms/attachment/8542befb-3134-46f0-a5ad-1534c63188b4/csur5204-73-f01.jpg" />
 </p>
 <h2 align="center"> Semantic Segmentation </h2>
+<h3 align="center"> Semantic segmentation is the task of classifying each and every pixel in an image into a class. </h3>
+There are various Deep Learning Model Architectures for Semantic Segmentation but here I have demonstrated only 1 architecture and i.e., U-Net.<br>
+I have implemented this using both Keras and PyTorch.
 
 ## Tech Used:
 
