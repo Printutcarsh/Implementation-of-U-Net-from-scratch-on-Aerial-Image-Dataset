@@ -1,4 +1,4 @@
-# Implementation-of-U-Net-from-scratch-on-Aerial-Image-Dataset
+<h1 align="center"> Implementation-of-U-Net-from-scratch-on-Aerial-Image-Dataset </h1>
 <p align="center">
   <img align="center" src="https://dl.acm.org/cms/attachment/8542befb-3134-46f0-a5ad-1534c63188b4/csur5204-73-f01.jpg" />
 </p>
