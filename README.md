@@ -4,6 +4,12 @@
 </p>
 <h2 align="center"> Semantic Segmentation </h2>
 <h3 align="center"> Semantic segmentation is the task of classifying each and every pixel in an image into a class. </h3>
+Some examples where semantic segmentation can be useful are: - 
+<ul>
+  <li>Self Driving Cars</li>
+  <li>Medical image diagnostics</li>
+  <li>Damage Detection</li>
+</ul>
 There are various Deep Learning Model Architectures for Semantic Segmentation but here I have demonstrated only 1 architecture and i.e., U-Net.<br>
 
 The implementation is done using both Keras and PyTorch.<br>
